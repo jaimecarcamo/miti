@@ -1,0 +1,1 @@
+var base_url_api='http://localhost:80/miti/server/index.php/';
